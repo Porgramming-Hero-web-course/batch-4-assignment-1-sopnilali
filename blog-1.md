@@ -27,8 +27,7 @@ printValue("Hello");
 
 <p>An intersection type is the combination of multiple types into one. It's represented with the ampersand (&) symbol.</p>
 
-
-<strong>Use Case:</strong> <p> When you want a variable or parameter to require all properties from multiple types.</p>
+<strong>Use Case:</strong><p> When you want a variable or parameter to require all properties from multiple types.</p>
 
 <pre>
 interface Person {
