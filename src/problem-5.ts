@@ -11,4 +11,4 @@ type Person = {
 }
 
 const person: Person = { name: "Alice", age: 30 };
-console.log(getProperty(person, "name")); // Output: Alice
+// console.log(getProperty(person, "name")); // Output: Alice
